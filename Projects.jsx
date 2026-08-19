@@ -19,11 +19,11 @@ function Projects() {
                     </p>
 
                     <div>
-                        <a href="#" onClick={(event) => event.preventDefault()} target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/mahek82/personal-portfolio" target="_blank" rel="noopener noreferrer">
                             GitHub
                         </a>
 
-                        <a href="#" onClick={(event) => event.preventDefault()} target="_blank" rel="noopener noreferrer">
+                        <a href="https://mahek82.github.io/personal-portfolio/" target="_blank" rel="noopener noreferrer">
                             Live Demo
                         </a>
                     </div>
@@ -44,11 +44,11 @@ function Projects() {
                     </p>
 
                     <div>
-                        <a href="#" onClick={(event) => event.preventDefault()} target="_blank" rel="noopener noreferrer">
+                        <a href="#" target="_blank" rel="noopener noreferrer">
                             GitHub
                         </a>
 
-                        <a href="#" onClick={(event) => event.preventDefault()} target="_blank" rel="noopener noreferrer">
+                        <a href="#" target="_blank" rel="noopener noreferrer">
                             Live Demo
                         </a>
                     </div>
