@@ -19,11 +19,11 @@ function Projects() {
                     </p>
 
                     <div>
-                        <a href="https://github.com/mahek82/personal-portfolio" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/mahek82/personal-portfolio">
                             GitHub
                         </a>
 
-                        <a href="https://mahek82.github.io/personal-portfolio/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://mahek82.github.io/personal-portfolio/">
                             Live Demo
                         </a>
                     </div>
